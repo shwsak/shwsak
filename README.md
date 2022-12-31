@@ -23,5 +23,15 @@
             <li> ⚡ Fun fact: It is never too late to learn something</li>
         </ul>
     </div>
-
+    <br/>
+        <h2>🛠
+            Languages and Tools
+        </h2>
+        <ul>
+            <li>Javascript | ReactJs | Redux | Bootstrap | Material UI |    TailwindCSS | Styled Components
+            </li>
+            <li>Python | SQL | RestFul APIs
+            </li>
+        </ul>
+      
 
